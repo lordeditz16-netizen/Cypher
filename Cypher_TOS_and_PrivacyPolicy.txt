@@ -1,0 +1,100 @@
+CYPHER PRIVACY POLICY
+Last Updated: May 15, 2026
+
+1. Introduction
+Thank you for using Cypher. Your privacy matters to us. This Privacy Policy explains what data may be collected, how it is used, and how we protect it while using the bot.
+
+2. Information We Collect
+Cypher may collect and process:
+- User IDs
+- Server IDs
+- Channel IDs
+- Message IDs
+- Moderation logs
+- Command usage data
+- Ticket information
+- Giveaway participation data
+
+Cypher does NOT intentionally collect sensitive personal information such as passwords, payment information, or private real-life details.
+
+3. How We Use Data
+The collected data is used for:
+- Bot functionality
+- Moderation systems
+- Security systems
+- Automod detection
+- Ticket management
+- Giveaway systems
+- Music and utility commands
+- Improving stability and performance
+
+4. Data Storage
+Some data may be temporarily or permanently stored depending on the feature being used. Moderation logs and configuration settings may remain stored until removed by server administrators.
+
+5. Data Sharing
+Cypher does not sell, rent, or trade your data to third parties.
+
+6. Security
+We take reasonable measures to protect stored data from unauthorized access, abuse, or leaks.
+
+7. User Responsibility
+Users are responsible for how they use the bot. Abuse, exploitation, or malicious usage may result in restrictions or blacklisting.
+
+8. Third-Party Services
+Certain features may rely on third-party services such as Discord APIs or music providers. Their own privacy policies may also apply.
+
+9. Policy Changes
+This Privacy Policy may be updated anytime without prior notice. Continued usage of Cypher means you accept the updated policy.
+
+10. Contact
+For support or questions regarding this policy, contact the bot developers or support server administrators.
+
+
+==================================================
+
+
+CYPHER TERMS OF SERVICE
+Last Updated: May 15, 2026
+
+1. Acceptance of Terms
+By inviting or using Cypher in any Discord server, you agree to these Terms of Service.
+
+2. Usage Rules
+You agree not to:
+- Abuse or exploit the bot
+- Attempt to crash or overload systems
+- Use the bot for illegal activities
+- Bypass moderation or security systems
+- Spam commands excessively
+
+3. Moderation & Security
+Cypher includes moderation and automod systems. Server administrators are responsible for configuring these systems properly.
+
+4. Availability
+We do not guarantee uninterrupted uptime or flawless functionality. Features may change, break, or be removed at any time.
+
+5. Data Usage
+By using Cypher, you agree to the collection and processing of limited Discord-related data required for functionality.
+
+6. Punishments
+Users or servers violating these terms may be:
+- Blacklisted
+- Rate limited
+- Restricted from certain features
+- Permanently denied access
+
+7. Liability
+The developers of Cypher are not responsible for:
+- Server damage caused by improper configuration
+- Loss of data
+- Discord outages
+- Third-party service failures
+
+8. Termination
+We reserve the right to terminate or suspend access to the bot at any time for violations or abuse.
+
+9. Changes to Terms
+These Terms may be modified anytime without notice. Continued use of the bot means you accept the latest version.
+
+10. Contact
+For support or questions, contact the official support server or bot developers.
